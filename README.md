@@ -1,1 +1,1 @@
-# NBody2
+# NBody animation
